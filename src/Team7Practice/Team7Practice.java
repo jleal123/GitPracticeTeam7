@@ -8,6 +8,8 @@ public class Team7Practice {
 		
 		System.out.println ("Ajmal");   //08/02/23 Ajmal
 		
+		System.out.println("It is 79 degrees");// 8/2/23 Joshua
+		
 		
 	}
 
