@@ -10,6 +10,8 @@ public class Team7Practice {
 		
 		System.out.println("It is 79 degrees");// 8/2/23 Joshua
 		
+		System.out.println ("java is fun");   //08/02/23 Ajmal
+		
 		
 	}
 
