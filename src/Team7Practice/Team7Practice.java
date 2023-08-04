@@ -12,7 +12,12 @@ public class Team7Practice {
 		
 		System.out.println ("java is fun");   //08/02/23 Ajmal
 		
+		System.out.println ("java is fun");   //08/03/23 Ajmal
+
+		
 		
 	}
+	
+	
 
 }
